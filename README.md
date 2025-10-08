@@ -1,0 +1,1 @@
+![story_mode_template.png](story_mode_template.png)
